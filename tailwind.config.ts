@@ -12,13 +12,22 @@ const config: Config = {
         'green-primary': '#1D3531',
         'green-border': '#2A4B46',
         'green-actived': '#5d8a83',
+        'green-btn': '#CCEC60',
+        'green-title-card': '#719d96',
       },
       maxWidth: {
         grid: '77.5rem',
-        'text-hero': '66rem'
+        'text-hero': '66rem',
+        'area-icons': '53.4375rem',
+        'area-mockups': '59.625rem',
+        'area-cards': '82.5rem',
       },
       height: {
-        'section-hero': '54.625rem'
+        'section-hero': '54.625rem',
+        'area-cards': '35.1rem',
+      },
+      backgroundImage: {
+        'hero': "url('/bg-hero.svg')"
       }
     },
   },
